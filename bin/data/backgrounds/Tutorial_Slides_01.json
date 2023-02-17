@@ -1,0 +1,140 @@
+{
+  "frames": [
+    {
+      "filename": "Tutorial_07.png",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1920,
+        "h": 1080
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1920,
+        "h": 1080
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Tutorial_08.png",
+      "frame": {
+        "x": 1920,
+        "y": 0,
+        "w": 1920,
+        "h": 1080
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1920,
+        "h": 1080
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Tutorial_09.png",
+      "frame": {
+        "x": 0,
+        "y": 1080,
+        "w": 1920,
+        "h": 1080
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1920,
+        "h": 1080
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Tutorial_10.png",
+      "frame": {
+        "x": 1920,
+        "y": 1080,
+        "w": 1920,
+        "h": 1080
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1920,
+        "h": 1080
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Tutorial_11.png",
+      "frame": {
+        "x": 0,
+        "y": 2160,
+        "w": 1920,
+        "h": 1080
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1920,
+        "h": 1080
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "Tutorial_Slides_01.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4096,
+      "h": 4096
+    },
+    "scale": 1
+  }
+}
